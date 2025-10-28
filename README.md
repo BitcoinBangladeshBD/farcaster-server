@@ -1,0 +1,2 @@
+# farcaster-server
+Server
